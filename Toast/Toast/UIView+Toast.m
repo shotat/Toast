@@ -6,7 +6,7 @@
 //  Copyright 2013 Charles Scalesse.
 //
 
-#import "Toast+UIView.h"
+#import "UIView+Toast.h"
 #import <QuartzCore/QuartzCore.h>
 #import <objc/runtime.h>
 
